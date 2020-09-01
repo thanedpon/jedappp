@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "25340735056",
+    "firebase_url": "https://pdb-app-c9d98.firebaseio.com",
+    "project_id": "pdb-app-c9d98",
+    "storage_bucket": "pdb-app-c9d98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25340735056:android:a7b368e5d586bc6156ab55",
+        "android_client_info": {
+          "package_name": "com.jedapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25340735056-3np4t5vah7atolm16p3q5phesqjg7avj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC65THtTRUfjXjij7HZtBeUaddITD3vQQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25340735056-3np4t5vah7atolm16p3q5phesqjg7avj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "25340735056-rgpli3h6k7rg4b2ba9pgg7cmlv9gr3dn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.jedApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25340735056:android:df94bb735691a9d956ab55",
+        "android_client_info": {
+          "package_name": "com.tpit.jedApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25340735056-3np4t5vah7atolm16p3q5phesqjg7avj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC65THtTRUfjXjij7HZtBeUaddITD3vQQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25340735056-3np4t5vah7atolm16p3q5phesqjg7avj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "25340735056-rgpli3h6k7rg4b2ba9pgg7cmlv9gr3dn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.jedApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
